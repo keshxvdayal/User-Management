@@ -62,9 +62,9 @@ app/
   page.tsx
 components/
   ui/
-    auth-provider.tsx
-    header.tsx
-    theme-provider.tsx
+  auth-provider.tsx
+  header.tsx
+  theme-provider.tsx
 hooks/
   use-mobile.tsx
   use-toast.ts
